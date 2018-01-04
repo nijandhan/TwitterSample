@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TwitterSample</string>
+    <string name="TWITTER_CONSUMER_KEY">hxC4j9JSgQDgWLuQtCMcDPjLL</string>
+    <string name="TWITTER_CONSUMER_SECRET">4YCxNRBAzX04XW7oieWnVfBygdeQ1jsw7zWBO5eONy3CmBIjb5</string>
 </resources>
